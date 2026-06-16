@@ -22,7 +22,7 @@ void setup() {
   // --- QR CODE GENERATION SETUP ---
   
   // The text or URL you want the QR code to contain
-  const char* qrText = "https://www.google.com";
+  const char* qrText = "https://raspberrypi.tailcda191.ts.net/";
   
   // Create the QR code object
   QRCode qrcode;
